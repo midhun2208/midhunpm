@@ -1,6 +1,6 @@
 # MIDHUN P M  
 📞 +91 8547452718 ⋄ 📍 Pathanamthitta, Kerala  
-✉️ midhun.sm343@gmail.com ⋄ [LinkedIn](your-linkedin-profile) ⋄ [GitHub](https://github.com/midhunpm)  
+✉️ midhun.sm343@gmail.com ⋄ [LinkedIn]((https://www.linkedin.com/in/midhun-p-m-98b90b211/)) ⋄ [GitHub](https://github.com/midhun2208)  
 
 ## OBJECTIVE  
 Front-End Developer with one year of experience, specializing in Next.js and React.js. Proficient in Tailwind CSS,  
